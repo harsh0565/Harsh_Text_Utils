@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-export default function TextForms(props) {
+export default function Textforms(props) {
   const handleUpClick = () => {
     console.log("button is clicked" + text);
     setText(text.toUpperCase());

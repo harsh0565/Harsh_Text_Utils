@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./App.css";
 import Alert from "./components/Alert";
 import Navbar from "./components/Navbar";
-import TextForms from "./components/TextForms";
+import TextForms from "./components/Textforms";
 import { BrowserRouter, Route, Routes} from "react-router-dom";
 function App() {
   const [alert, setAlert] = useState(null);
@@ -45,7 +45,6 @@ function App() {
               />
             }
           />
-          {/* <Route path="/about" element={<About />} /> */}
         </Routes>
       </BrowserRouter>
     </>
