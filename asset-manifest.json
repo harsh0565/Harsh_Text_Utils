@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Harsh_Text_Utils/static/css/main.8eb3c80e.css",
+    "main.js": "/Harsh_Text_Utils/static/js/main.ddfcf665.js",
+    "static/js/787.7d690fa4.chunk.js": "/Harsh_Text_Utils/static/js/787.7d690fa4.chunk.js",
+    "index.html": "/Harsh_Text_Utils/index.html",
+    "main.8eb3c80e.css.map": "/Harsh_Text_Utils/static/css/main.8eb3c80e.css.map",
+    "main.ddfcf665.js.map": "/Harsh_Text_Utils/static/js/main.ddfcf665.js.map",
+    "787.7d690fa4.chunk.js.map": "/Harsh_Text_Utils/static/js/787.7d690fa4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8eb3c80e.css",
+    "static/js/main.ddfcf665.js"
+  ]
+}
