@@ -44,35 +44,35 @@ export default function Textforms(props) {
 
           <button
             disabled={text.length === 0}
-            className="btn btn-primary m-3 "
+            className="btn btn-warning m-3 text-capitalize "
             onClick={handleUpClick}
           >
             convert to uppercase
           </button>
           <button
             disabled={text.length === 0}
-            className="btn btn-primary m-3"
+            className="btn btn-primary m-3 text-capitalize"
             onClick={lowercase}
           >
             convert to lowercase
           </button>
           <button
             disabled={text.length === 0}
-            className="btn btn-primary m-3"
+            className="btn btn-danger m-3 text-capitalize"
             onClick={clear}
           >
             clear
           </button>
           <button
             disabled={text.length === 0}
-            className="btn btn-primary m-3"
+            className="btn btn-success m-3 text-capitalize"
             onClick={copy}
           >
             copy
           </button>
           <button
             disabled={text.length === 0}
-            className="btn btn-primary m-3"
+            className="btn btn-secondary m-3 text-capitalize"
             onClick={handleExtraSpace}
           >
             remove extra space

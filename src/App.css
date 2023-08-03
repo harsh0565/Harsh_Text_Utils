@@ -54,3 +54,9 @@
   font-style: italic;
   text-anchor: middle;
 }
+h1, h3{
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  text-shadow: 3px 3px 4px gray;
+
+}
